@@ -1,0 +1,19 @@
+{
+  "name": "testdemo",
+  "version": "1.0.0",
+  "description": "testproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teja311-art/test.git"
+  },
+  "author": "teja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teja311-art/test/issues"
+  },
+  "homepage": "https://github.com/teja311-art/test#readme"
+}
